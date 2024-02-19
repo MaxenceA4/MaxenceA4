@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxencea4&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="maxencea4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxencea4&show_icons=true&theme=cobalt&locale=en" alt="maxencea4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxencea4&theme=dark" alt="maxencea4" /></p>
